@@ -1,0 +1,18 @@
+.bannerMovie{
+  background-image: url('https://animekayo.com/wp-content/uploads/2018/12/nanatsu-no-taizai-movie-tenkuu-no-torawarebito-1080p-dual-audio-hevc-1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+  opacity: 0.8;
+}
+.carrouselMovie{
+  margin: 20px;
+}
+
+.listMovie{
+
+}
+
+.list{
+
+}
