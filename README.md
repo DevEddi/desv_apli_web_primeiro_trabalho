@@ -1,8 +1,8 @@
 <h1 align="center">Disciplina Desenvolvimneto Web</h1>
 
 <div align="center" style="display: inline_block"><br>
-    <img alt="" src="https://img.shields.io/github/issues/{3DD1}/{project_savemoney_2}.svg" >
-    <img alt="" src="https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg" >
+    <img alt="" src="https://img.shields.io/github/downloads/3DD1/desv-apli-web-primeiro-trabalho/total" >
+    <img alt="" src="https://img.shields.io/github/stars/3dd1/https://img.shields.io/github/downloads/3DD1/desv-apli-web-primeiro-trabalho/total" >
    <h1 align="center">Faculdade Metodista Granbery</h1>    
     </div>
 
