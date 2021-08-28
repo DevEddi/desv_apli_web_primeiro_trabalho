@@ -8,11 +8,40 @@
 .carrouselMovie{
   margin: 20px;
 }
-
+.carrouselMovie h1{
+  margin-left: 30px;
+}
 .listMovie{
 
 }
 
 .list{
 
+}
+
+.card-body{
+  margin: 5px 5px ;
+}
+.listDescripition-1{
+  display:flex;
+
+  ;
+}
+.listDescripition-1 li{
+  padding-left: 5px
+}
+.listDescripition-2{
+  display:flex;
+
+}
+
+.listDescripition-2 li{
+  padding-left: 5px
+}
+.card{
+  width: 19rem;
+}
+.card:hover{
+  width: 28rem;
+  transform: translateY(5) scale(2.9);
 }
