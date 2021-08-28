@@ -1,4 +1,4 @@
-<h1 align="center">Disciplina Desenvolvimneto Web</h1>
+<h1 align="center">Disciplina Desenvolvimento Web</h1>
 
 <div align="center" style="display: inline_block"><br>
     <img alt="" src="https://img.shields.io/github/downloads/3DD1/desv-apli-web-primeiro-trabalho/total" >
