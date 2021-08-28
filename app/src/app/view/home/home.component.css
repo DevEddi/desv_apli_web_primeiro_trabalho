@@ -7,6 +7,7 @@
 }
 .carrouselMovie{
   margin: 20px;
+
 }
 .carrouselMovie h1{
   margin-left: 30px;
@@ -16,7 +17,12 @@
 }
 
 .list{
+  display:flex;
 
+}
+
+.list li{
+  padding-left: 2px;
 }
 
 .card-body{
@@ -43,5 +49,4 @@
 }
 .card:hover{
   width: 28rem;
-  transform: translateY(5) scale(2.9);
 }
