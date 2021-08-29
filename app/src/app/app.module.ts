@@ -7,13 +7,19 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HomeComponent } from './view/home/home.component';
 import { NavBarComponent } from './view/nav-bar/nav-bar.component';
 import { FooterComponent } from './view/footer/footer.component';
+import { SerieComponent } from './serie/serie.component';
+import { FilmesComponent } from './filmes/filmes.component';
+import { AssistirComponent } from './assistir/assistir.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     NavBarComponent,
-    FooterComponent
+    FooterComponent,
+    SerieComponent,
+    FilmesComponent,
+    AssistirComponent
   ],
   imports: [
     BrowserModule,
